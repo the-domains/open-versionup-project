@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Open VersionUp Project]]></title>
         <description><![CDATA[Open VersionUp Project]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/open-versionup-project/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 20:30:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 23:50:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/open-versionup-project/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test 002]]></title>
+            <description><![CDATA[<article><h1>Test 002</h1><p>this is test 002</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61cf263d-67bb-4abd-8d0f-71b4ce381e3d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/open-versionup-project/test-002/index.html</link>
+            <guid isPermaLink="false">0f877875-17ad-4eb0-a9bc-5e646b90e168</guid>
+            <pubDate>Wed, 30 Dec 2015 23:50:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Webプロジェクトマネジメント標準「OPEN "VERSION UP" PROJECT」がスタート]]></title>
             <description><![CDATA[<article><h1>Webプロジェクトマネジメント標準「OPEN "VERSION UP" PROJECT」がスタート</h1><p>ロフトワークは、ロフトワーク代表・林千晶が共著で執筆した書籍『Webプロジェクトマネジメント標準』と、プロジェクトマネジメントを通じた新たなプロジェクト、Webプロジェクトマネジメント標準「OPEN “VERSION UP” PROJECT」をスタートします。</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64bd01842c2821310bc310a1d3c3e8a395d6acae.jpg"></article>]]></description>
-            <link>undefinedwebopen-version-up-project/index.html</link>
+            <link>https://thegrid.ai/open-versionup-project/webopen-version-up-project/index.html</link>
             <guid isPermaLink="false">c23654f4-1a63-4131-9b69-4094a6246ff8</guid>
             <pubDate>Wed, 23 Dec 2015 20:30:41 GMT</pubDate>
         </item>
